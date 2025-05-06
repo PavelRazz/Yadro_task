@@ -1,0 +1,3 @@
+/test_task/build/CMakeFiles/task.dir
+/test_task/build/CMakeFiles/edit_cache.dir
+/test_task/build/CMakeFiles/rebuild_cache.dir

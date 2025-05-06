@@ -1,0 +1,1 @@
+/usr/bin/c++  -O2 -Wall -Wextra CMakeFiles/task.dir/main.cpp.o -o task 
